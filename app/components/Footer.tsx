@@ -4,7 +4,7 @@ export default function Footer() {
       <ul className="flex gap-x-1 justify-center items-center">
         <li>
           <a
-            href="https://www.linkedin.com/in/jenibober/"
+            href="linkedin.com/in/jeni-b-4a5080151/"
             className="hover:underline hover:font-medium"
             target="_blank"
             rel="noreferrer"
@@ -15,12 +15,23 @@ export default function Footer() {
         <li>|</li>
         <li>
           <a
-            href="https://www.linkedin.com/in/jenibober/"
+            href="https://github.com/jenibober"
             className="hover:underline hover:font-medium"
             target="_blank"
             rel="noreferrer"
           >
             Github
+          </a>
+        </li>
+        <li>|</li>
+        <li>
+          <a
+            href="https://paperjoycards.com/"
+            className="hover:underline hover:font-medium"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Shop
           </a>
         </li>
       </ul>
