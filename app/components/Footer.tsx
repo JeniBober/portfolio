@@ -4,7 +4,7 @@ export default function Footer() {
       <ul className="flex gap-x-1 justify-center items-center">
         <li>
           <a
-            href="linkedin.com/in/jeni-b-4a5080151/"
+            href="https://linkedin.com/in/jeni-b-4a5080151/"
             className="hover:underline hover:font-medium"
             target="_blank"
             rel="noreferrer"
