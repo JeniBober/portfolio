@@ -4,7 +4,7 @@ export default function Escrow() {
   return (
     <>
       <div className="my-20 flex items-start flex-wrap flex-col ">
-        <Link to="/" className="font-bold text-blue-800">
+        <Link to="https://escrow.jenibober.com/" className="font-bold text-blue-800">
           Link to product
         </Link>
         <h1 className="font-bold text-3xl my-3">About Escrow Calendars</h1>
