@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header className="flex justify-between items-center">
       <Link to="/">
-        <h1 className="text-3xl font-bold">Jeni</h1>
+        <h1 className="text-3xl font-bold">Jeni.</h1>
       </Link>
       <nav>
         <ul className="flex">

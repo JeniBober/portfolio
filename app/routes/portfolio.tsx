@@ -20,7 +20,7 @@ export default function Portfolio() {
 
   return (
     <div className="my-20 flex items-centergap-8 w-full">
-      <div className="flex flex-wrap w-full gap-12 justify-center">
+      <div className="flex flex-wrap w-full gap-16 justify-center">
         {projects.map((project, i) => (
           <div key={i} className="w-[250px]">
             <div className="   border-spacing-8  border-slate-500 border  overflow-hidden">

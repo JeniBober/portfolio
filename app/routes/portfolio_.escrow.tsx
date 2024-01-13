@@ -10,7 +10,7 @@ export default function Escrow() {
         <h1 className="font-bold text-3xl my-3">About Escrow Calendars</h1>
 
         <div>
-          <img src="/images/escrow.png" className="md:w-[50%] w-[80%] mx-auto" alt="" />
+          <img src="/images/escrow.png" className="md:w-[50%] w-[80%] mx-auto py-6" alt="" />
         </div>
 
         <h2 className="font-bold text-2xl my-3">What is it?</h2>
