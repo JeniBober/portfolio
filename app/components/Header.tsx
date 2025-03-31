@@ -27,6 +27,8 @@ export default function Header() {
             <a
               href="mailto:boberjeni@gmail.com"
               className="hover:border-b-2 border-black"
+              target="_blank"
+              rel="noreferrer"
             >
               Contact
             </a>
