@@ -26,8 +26,6 @@ export default function Header() {
           <li className="mx-2">
             <a
               href="mailto:boberjeni@gmail.com"
-              target="_blank"
-              rel="noreferrer"
               className="hover:border-b-2 border-black"
             >
               Contact

@@ -3,11 +3,11 @@ import { Link } from '@remix-run/react';
 export default function Portfolio() {
   const projects = [
     {
-      name: 'Paper Joy Cards',
-      description: 'Handcrafted greeting cards for all occasions. Powered by Shopify.',
-      image: '/images/paperjoycards.png',
-      url: 'https://paperjoycards.com/',
-      id: 'paperjoycards',
+      name: 'TourNest',
+      description: 'A real estate tour itinerary builder.',
+      image: '/images/tournest.png',
+      url: 'https://tournest.jenibober.com/',
+      id: 'tournest',
     },
     {
       name: 'Escrow Calendar',
@@ -15,6 +15,13 @@ export default function Portfolio() {
       image: '/images/escrow.png',
       url: 'https://escrow.jenibober.com/',
       id: 'escrow',
+    },
+    {
+      name: 'Paper Joy Cards',
+      description: 'Handcrafted greeting cards for all occasions. Powered by Shopify.',
+      image: '/images/paperjoycards.png',
+      url: 'https://paperjoycards.com/',
+      id: 'paperjoycards',
     },
   ];
 
