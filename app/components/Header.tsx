@@ -18,14 +18,14 @@ export default function Header() {
               Portfolio
             </NavLink>
           </li>
-          <li>
+          <li className="mx-2">
           <a
             href="https://linkedin.com/in/jeni-b-4a5080151/"
             className="hover:underline hover:font-medium"
           >
             Linkedin
           </a>
-        </li>
+          </li>
           <li className="mx-2">
             <a href="/assets/resume.pdf" className="hover:border-b-2 border-black">
               Resume
